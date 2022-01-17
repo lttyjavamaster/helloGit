@@ -8,5 +8,7 @@ public class HelloGit {
         System.out.println("update1");
         System.out.println("update2");
         System.out.println("dev分支");
+        System.out.println("主干添加");
+
     }
 }
